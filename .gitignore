@@ -1,0 +1,5 @@
+Data/
+.DS_Store
+*.pdf
+.ipynb_checkpoints/
+.vscode/
